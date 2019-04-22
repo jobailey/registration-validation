@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: jennis
- * Date: 11/14/2018
- * Time: 9:50 PM
- */
 
 $pagename = "Change Password";
 include_once "header.inc.php";
