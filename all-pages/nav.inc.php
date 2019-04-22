@@ -1,11 +1,4 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: jennis
- * Date: 11/5/2018
- * Time: 7:29 PM
- */
-?>
+
 <ul>
     <?php
     echo ($currentfile == "index.php") ? "<li>Home</li>" : "<li><a href='index.php'>Home</a></li>";
