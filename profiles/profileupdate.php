@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: honors
- * Date: 2/15/2019
- * Time: 1:32 PM
- */
 
 $pagename = "Update Profile";
 include_once "header.inc.php";
